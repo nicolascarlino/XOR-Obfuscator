@@ -27,6 +27,7 @@ string XOR(string data, char key[])
 // Xor Function
 int main(){
     system("cls");
+    SetConsoleTitle(["Gasai] | By Kenyh");
     setcolor(2);
     cout<<"                                         _____ _____ _____ _____ _____ "<<endl;
     cout<<"                                        |   __|  _  |   __|  _  |     |"<<endl;
